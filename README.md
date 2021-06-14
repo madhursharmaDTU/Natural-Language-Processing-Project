@@ -3,6 +3,7 @@ Classifying Yelp Reviews into 1 star or 5 star categories based off the text con
 we will utilize the pipeline methods for more complex tasks.
 
 We will use the Yelp Review Data Set from Kaggle.
+https://www.kaggle.com/c/yelp-recsys-2013
 
 Each observation in this dataset is a review of a particular business by a particular user.
 
